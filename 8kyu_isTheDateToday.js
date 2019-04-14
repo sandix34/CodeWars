@@ -21,7 +21,7 @@ yesterday.setDate(yesterday.getDate() - 1);
 
 
 /**
-isToday(new Date()), true;
-isToday(tomorrow), false;
-isToday(yesterday), false;
+*isToday(new Date()), true;
+*isToday(tomorrow), false;
+*isToday(yesterday), false;
  */
