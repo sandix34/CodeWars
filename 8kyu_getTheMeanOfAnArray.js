@@ -17,8 +17,6 @@ function getAverage(marks){
     return Math.floor(average);
     
 }
-
-
   // Tests
 
 console.log(getAverage([2,2,2,2])); //2
